@@ -1,3 +1,11 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+*{
+    /* font-family: "Gill Sans", sans-serif; */
+    font-family: sans-serif;
+}
+::selection{
+    color: rgb(231, 231, 12);
+}
